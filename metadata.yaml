@@ -1,0 +1,35 @@
+_repo: Where-There-s-a-Will_330
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Rinehart, Mary Roberts
+    birthdate: 1876
+    deathdate: 1958
+    gutenberg_agent_id: '183'
+    url: http://www.gutenberg.org/2009/agents/183
+    wikipedia: http://en.wikipedia.org/wiki/Mary_Roberts_Rinehart
+description: Though not exactly a mystery in the traditional sense, Mary Roberts Rinehart's
+  Where There's a Will certainly has its fair share of intrigue, chicanery and deception.
+  At stake is the ownership of Hope Springs, a family-owned health resort whose future
+  appears uncertain in the aftermath of the longtime manager's demise. When a well-meaning
+  group of employees band together to try to take matters into their own hands, all
+  hell breaks loose.
+gutenberg_issued: '2006-03-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '330'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Impersonation -- Fiction'
+- !lcsh 'Detective and mystery stories'
+- !lcsh 'Health resorts -- Fiction'
+- !lcsh 'Love stories'
+- !lcsh 'Humorous stories'
+- !lcsh 'Man-woman relationships -- Fiction'
+- GITenberg
+title: Where There's a Will
+url: http://www.gutenberg.org/ebooks/330
