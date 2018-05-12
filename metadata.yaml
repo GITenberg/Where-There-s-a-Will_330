@@ -1,5 +1,8 @@
 _repo: Where-There-s-a-Will_330
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Rinehart, Mary Roberts
@@ -14,6 +17,8 @@ description: Though not exactly a mystery in the traditional sense, Mary Roberts
   appears uncertain in the aftermath of the longtime manager's demise. When a well-meaning
   group of employees band together to try to take matters into their own hands, all
   hell breaks loose.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/330#Where-There-s-a-Will
 gutenberg_issued: '2006-03-15'
 gutenberg_type: Text
 identifiers:
